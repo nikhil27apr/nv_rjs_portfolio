@@ -1,17 +1,17 @@
 export const products = [
   {
     id: 1,
-    img: "https://github.com/nikhil27apr/portfolio_nv_Rjs/blob/main/src/img/screenshot1.png?raw=true",
+    img: "https://github.com/nikhil27apr/Story/blob/master/screenshot1.png?raw=true",
     link: "https://nikhil27apr.github.io/Tindog-NV/",
   },
   {
     id: 2,
-    img: "https://github.com/nikhil27apr/portfolio_nv_Rjs/blob/main/src/img/screenshot2.png?raw=true",
+    img: "https://github.com/nikhil27apr/Story/blob/master/screenshot2.png?raw=true",
     link: "https://nikhil27apr.github.io/Portfolio/",
   },
   {
     id: 3,
-    img: "https://github.com/nikhil27apr/portfolio_nv_Rjs/blob/main/src/img/screenshot3.png?raw=true",
+    img: "https://github.com/nikhil27apr/Story/blob/master/screenshot3.png?raw=true",
     link: "https://nikhil27apr.github.io/Drum-Kit/",
   },
   {
