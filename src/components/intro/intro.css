@@ -87,7 +87,7 @@
   height: 100%;
   object-fit: cover;
   position: absolute;
-  filter: (drop-shadow: 10px 10px 8px #lightblue)}}
+  filter: (drop-shadow: 4px 4px 8px #999999)}}
 
   animation: okay 2s linear ;
   animation-iteration-count: 1;
